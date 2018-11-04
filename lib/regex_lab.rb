@@ -19,4 +19,4 @@ def valid_phone_number?(phone)
 
 end
 
-puts starts_with_a_vowel("hello")
+#puts starts_with_a_vowel("hello")
